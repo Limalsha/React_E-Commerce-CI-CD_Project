@@ -14,8 +14,7 @@ A Ecommerce Website made with React.js Framework.
 Clone the project
 
 ```bash
-  git clone https://github.com/Limalsha/React_E-Commerce-CI-CD_Project.git
-```
+  git clone https://github.com/Limalsha/Dockerized-React_E-Commerce-Project.git
 
 Go to the project directory
 
@@ -43,7 +42,3 @@ Start the server
 * [Redux](https://redux.js.org/)
 * [Bootstrap](https://getbootstrap.com/)
 * [Fake Store API](https://fakestoreapi.com/)
-
-
-
-
